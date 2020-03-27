@@ -2,11 +2,12 @@
 
 Программа "Magic Ball" написанна на языке Ruby.
 ###### С чего начать:
- Склонируйте репозиторий & Запустите Magic Ball
+Склонируйте репозиторий
 
 `git clone git://github.com/exorich-lab/magic_ball.git`
 
 `cd magic_ball`
 
-`ruby magic_ball.rb`
+Запустите Magic Ball:
 
+`ruby magic_ball.rb`
