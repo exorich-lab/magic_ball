@@ -1,4 +1,4 @@
-###### Magic Ball
+###### **Magic Ball**
 
 This program is written in Ruby.
 ###### Getting started
@@ -8,5 +8,5 @@ This program is written in Ruby.
 
 `cd magic_ball`
 
- `ruby magic_ball.rb`
+`ruby magic_ball.rb`
 
