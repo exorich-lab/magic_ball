@@ -1,7 +1,7 @@
-###### Magic Ball
+# Magic Ball
 
 Программа "Magic Ball" написанна на языке Ruby.
-###### С чего начать:
+## С чего начать:
 Склонируйте репозиторий
 
 ```git clone git://github.com/exorich-lab/magic_ball.git```
