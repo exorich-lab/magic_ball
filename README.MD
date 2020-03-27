@@ -4,10 +4,10 @@
 ###### С чего начать:
 Склонируйте репозиторий
 
-`git clone git://github.com/exorich-lab/magic_ball.git`
+```git clone git://github.com/exorich-lab/magic_ball.git```
 
-`cd magic_ball`
+```cd magic_ball```
 
 Запустите Magic Ball:
 
-`ruby magic_ball.rb`
+```ruby magic_ball.rb```
