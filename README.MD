@@ -2,6 +2,11 @@
 
 This program is written in Ruby.
 ###### Getting started
-1) Clone this repo
-2) ruby magic_ball.rb  #=> to run the program
+ Clone this repo & Run Magic Ball
+
+`git clone git://github.com/exorich-lab/magic_ball.git`
+
+`cd magic_ball`
+
+ `ruby magic_ball.rb`
 
